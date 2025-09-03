@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Alejandro Valle
 
-<!--
-**AlexValle301299/AlexValle301299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aprendiendo y desarrollando proyectos en **Python**, **JavaScript** y **SQL**  
+🔐 Interesado en ciberseguridad, desarrollo web y análisis de datos.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos destacados
+- [Conversor de divisas en Python](#)
+- [Lista de tareas en JavaScript](#)
+- [Base de datos de biblioteca en SQL](#)
+
+## 📫 Contacto
+[LinkedIn](#) | Email: a.valle301299@gmail.com
