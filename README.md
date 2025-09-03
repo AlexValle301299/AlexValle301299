@@ -9,7 +9,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 
 ## 📂 Proyectos destacados
-- [Conversor de Divisas en Python](https://github.com/TU_USUARIO/ConversorDivisasPython)
+- [Conversor de Divisas en Python](https://github.com/AlexValle301299/ConversorDivisasPython)
 - [Lista de tareas en JavaScript](#)
 - [Base de datos de biblioteca en SQL](#)
 
