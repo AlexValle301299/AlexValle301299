@@ -1,7 +1,7 @@
 # 👋 Hola, soy Alejandro Valle
 
 💻 Aprendiendo y desarrollando proyectos en **Python**, **JavaScript** y **SQL**  
-🔐 Interesado en ciberseguridad, desarrollo web y análisis de datos.
+🔐 Interesado en ciberseguridad, desarrollo multiplataforma y análisis de datos.
 
 ## 🚀 Tecnologías
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
