@@ -9,7 +9,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 
 ## 📂 Proyectos destacados
-- [Página web]([https://github.com/AlexValle301299/ConversorDivisasPython](https://escueladecabalaytarot.com/))
+- 🌐 [Página web](https://escueladecabalaytarot.com/)
 
 ## 📫 Contacto
 [LinkedIn](#) | Email: a.valle301299@gmail.com
